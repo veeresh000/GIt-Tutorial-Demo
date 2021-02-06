@@ -1,1 +1,2 @@
 This is text file.
+I want to go into commit 2.
