@@ -2,4 +2,5 @@ This is text file.
 I want to go into commit 2.
 git diff
 git diff2
-Ignoring statging	
+Ignoring statging
+Ignored	
